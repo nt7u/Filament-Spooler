@@ -1,2 +1,2 @@
 # Spooler
-Device for re-rolling spools of 3d printer filament using two stepper motors, an Arduino, and custom hardware (for brother, Jake)
+Arduino firmware to operate two stepper motors, in unison, for re-spooling 3d printer filament.  For my brother, Jake.
